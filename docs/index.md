@@ -1,5 +1,5 @@
-# Header
+# Zym's CivLabs Wiki
 
-## Subheader
+## Welcome to Zym's CivLabs Wiki!
 
 Paragraph text
