@@ -1,6 +1,6 @@
 # Farmer Class
 
-Everything about the Farmer class is the same as the [Farmer class in CivLabs Wiki](https://wiki.civlabs.org/books/plugin-info/page/farmer) (External link) except for the following changes:
+Everything about the Farmer class is the same as [in CivLabs Wiki](https://wiki.civlabs.org/books/plugin-info/page/farmer) (External link) except for the following changes:
 
 # Biome Dependant Crops
 

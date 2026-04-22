@@ -1,4 +1,4 @@
-# Bronze!
+# Bronze
 
 Bronze has been added to Minecraft! It is made from an alloy of copper and gold, as seen below:
 
