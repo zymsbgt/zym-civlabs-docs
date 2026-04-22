@@ -24,3 +24,5 @@ And here is an example of crafting a tool head:
 
 ![Alt Text](images/Bronze5.png)
 ![Alt Text](images/Bronze6.png)
+![Alt Text](images/Bronze7.png)
+![Alt Text](images/Bronze8.png)
