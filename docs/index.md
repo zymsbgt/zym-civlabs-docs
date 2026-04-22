@@ -18,13 +18,13 @@ Metagaming is allowed in Zym's CivLabs and CivConomy.
 
 [Builder](https://wiki.civlabs.org/books/plugin-info/page/builder) (External Link)
 
-[Farmer](https://wiki.civlabs.org/books/plugin-info/page/farmer) (External Link)
+[Farmer](Farmer.md)
 
 [Guardsmen](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
 
 [Healer](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
 
-[Librarian](https://wiki.civlabs.org/books/plugin-info/page/librarian)
+[Librarian](https://wiki.civlabs.org/books/plugin-info/page/librarian) (External Link)
 
 [Miner](https://wiki.civlabs.org/books/plugin-info/page/miner) (External Link)
 
