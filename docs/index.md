@@ -15,19 +15,29 @@ Metagaming is allowed in Zym's CivLabs.
 ## [Classes](https://wiki.civlabs.org/books/plugin-info/chapter/classes-bxA) (External Link)
 
 [Blacksmith](https://wiki.civlabs.org/books/plugin-info/page/blacksmith) (External Link)
+
 [Builder](https://wiki.civlabs.org/books/plugin-info/page/builder) (External Link)
+
 [Farmer](https://wiki.civlabs.org/books/plugin-info/page/farmer) (External Link)
+
 [Guardsmen](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
+
 [Healer](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
+
 [Librarian](https://wiki.civlabs.org/books/plugin-info/page/librarian)
+
 [Miner](https://wiki.civlabs.org/books/plugin-info/page/miner) (External Link)
 
 ## The Rest
 
-[List of Changes]() (WIP)
-[Unique Mechanics]() (WIP)
+List of Changes (WIP)
+
+Unique Mechanics (WIP)
+
 [Recipes/Items](https://wiki.civlabs.org/books/plugin-info/chapter/unique-mechanics) (External Link)
+
 [CivLabs Terminology](https://wiki.civlabs.org/books/reports-and-theories/page/terminology-wip) (External Link)
+
 [Player Guides](https://wiki.civlabs.org/books/player-guides) (External Link)
 
 ## Contributing to this wiki
