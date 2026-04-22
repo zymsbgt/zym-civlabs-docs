@@ -10,7 +10,7 @@ If you are new here check out the [New Player Guide](https://wiki.civlabs.org/bo
 
 If you want mod recommendations, I suggest checking out [CivLabs Wiki's List of Recommended Mods](https://wiki.civlabs.org/books/information-of-wiki/page/recommended-mods) (External Link).
 
-Metagaming is allowed in Zym's CivLabs.
+Metagaming is allowed in Zym's CivLabs and CivConomy.
 
 ## [Classes](https://wiki.civlabs.org/books/plugin-info/chapter/classes-bxA) (External Link)
 
