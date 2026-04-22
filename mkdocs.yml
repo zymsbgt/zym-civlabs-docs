@@ -1,4 +1,4 @@
-site_name: GeyserHost Knowledgebase
+site_name: Zym's CivLabs Wiki
 theme:
   name: material
   palette:
@@ -29,11 +29,11 @@ markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
-copyright: Copyright &copy; GeyserHost
+copyright: Copyright &copy; ZymSB
 extra:
   social:
     - icon: fontawesome/brands/discord
-      link: https://discord.gg/pYHymM5wtE
-      name: GeyserHost Discord Server
+      link: https://discord.gg/YNRjVvxAXR
+      name: My Discord Server
 
 
