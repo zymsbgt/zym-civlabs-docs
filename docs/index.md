@@ -4,29 +4,27 @@
 
 This wiki documents the differences between the OG CivLabs plugin (by ShotRush) and Zym's CivLabs.
 
-## Getting Started
+## [Getting Started](/Getting%20Started.md)
 
-If you are new here check out the [New Player Guide](https://wiki.civlabs.org/books/player-guides/page/new-player-guide) (External Link), as this provides many important links and a quick guide on how to survive your first nights. 
+## [Classes](/Classes.md)
 
-If you want mod recommendations, I suggest checking out [CivLabs Wiki's List of Recommended Mods](https://wiki.civlabs.org/books/information-of-wiki/page/recommended-mods) (External Link).
+## Differences between Zym's CivLabs and CivLabs
 
-Metagaming is allowed in Zym's CivLabs and CivConomy.
+[Classless Players](/classless.md)
 
-## [Classes](https://wiki.civlabs.org/books/plugin-info/chapter/classes-bxA) (External Link)
+[Copper Pickaxe Breaks Gold](/Copper%20Pickaxe%20Breaks%20Gold.md)
 
-[Blacksmith](https://wiki.civlabs.org/books/plugin-info/page/blacksmith) (External Link)
+[Healing Consumables plugin](/Healing%20Consumables.md)
 
-[Builder](https://wiki.civlabs.org/books/plugin-info/page/builder) (External Link)
+[Hostile Mob Changes](/Hostile%20Mob%20Changes.md)
 
-[Farmer](Farmer.md)
+[Ore Processing Overhaul](/Ore%20Processing%20Overhaul.md)
 
-[Guardsmen](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
+[Padded Leather](/Padded%20Leather.md)
 
-[Healer](https://wiki.civlabs.org/books/plugin-info/page/guardsman-outdated) (External Link)
+[Smithing](/Smithing.md)
 
-[Librarian](https://wiki.civlabs.org/books/plugin-info/page/librarian) (External Link)
-
-[Miner](https://wiki.civlabs.org/books/plugin-info/page/miner) (External Link)
+[Woodcutter Plugin](/Woodcutter%20Plugin.md)
 
 ## The Rest
 
