@@ -42,4 +42,4 @@ Unique Mechanics (WIP)
 
 You can edit this wiki with a GitHub account here: [https://github.com/zymsbgt/zym-civlabs-docs](https://github.com/zymsbgt/zym-civlabs-docs)
 
-This wiki is not affliated with [CivLabs](https://wiki.civlabs.org/).
+This wiki is not affliated with [CivLabs](https://wiki.civlabs.org/) (External Link).
