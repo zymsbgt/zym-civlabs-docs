@@ -2,24 +2,17 @@
 
 ## Note: These features apply exclusively to Zym's CivLabs and are absent in other versions of CivLabs.
 
-## ❤️ Direct Healing from Food
+## ❤️ Foods that replenish hearts
+
+Cookie: 5 in 8 cookies heal you 0.5 hearts
+
+Bread, Baked Potato: 1 heart
+
+Beetroot/Mushroom Soup, Golden Carrot, Bread, Suspicious Stew: 1.5 hearts
+
+Pumpkin Pie: 2.5 - 3.0 Hearts
 
 Rabbit Stew: 4.0 Hearts
-Pumpkin Pie: 2.5 - 3.0 Hearts
-Beetroot/Mushroom Soup: 1.5 Hearts
-Golden Carrot: 1.5 Hearts
-Bread: 1.5 Hearts
-Baked Potato: 1.0 Heart
-Suspicious Stew: 1.5 Hearts
-Cookie: 0.5 Hearts (5 in 8 cookies heal you)
-
-## ✨ The Saturation Trade-off
-
-If you are already well-fed, your body converts excess energy into raw vitality.
-
-If your Hunger and Saturation bars are both completely full (20/20), eating high-tier food will trigger a Saturation Conversion. Your saturation will reset to zero, but you will instantly receive 1.0 Heart (2 HP) of healing.
-
-Look for the message: “Saturation converted to +1 Heart!” accompanied by a sparkle sound.
 
 ## 🎂 Cakes
 
@@ -28,6 +21,14 @@ In vanilla Minecraft, you can't eat cake if your hunger bar is full. We’ve fix
 Hungry? Eating a slice of cake heals 1.5 Hearts and restores hunger normally.
 
 Full? You can still eat the cake! It will heal you for 1.0 Heart per slice, even if you aren't hungry.
+
+## ✨ The Saturation Trade-off
+
+If you are already well-fed, your body converts excess energy into raw vitality.
+
+If your Hunger and Saturation bars are both completely full (20/20), eating high-tier food will trigger a Saturation Conversion. Your saturation will reset to zero, but you will instantly receive 1.0 Heart (2 HP) of healing.
+
+Look for the message: “Saturation converted to +1 Heart!” accompanied by a sparkle sound.
 
 ## 💧 Water Bottles
 
