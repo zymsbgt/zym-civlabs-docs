@@ -18,7 +18,7 @@ Rabbit Stew: 4.0 Hearts
 
 1.5 hearts and restores hunger normally, or 1 heart while full. Yes, you can eat cake even if your hunger bar is full.
 
-## ✨ The Saturation Trade-off
+## ✨ Saturation
 
 If you max out your saturation, you will get +1 Heart and your saturation will reset to zero.
 
